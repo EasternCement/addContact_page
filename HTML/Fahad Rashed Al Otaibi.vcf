@@ -3,7 +3,7 @@ VERSION:3.0
 PRODID:-//Apple Inc.//macOS 12.6//EN
 N:Al Otaibi;Fahad Rashed;;;
 FN:Fahad Rashed Al Otaibi
-ORG:Eastern Province Cement Co.;
+ORG:Chief Executive Officer;
 EMAIL;type=INTERNET;type=WORK;type=pref:falotaibi@epcco.com
 EMAIL;type=INTERNET;type=WORK:falotaibi@epcco.com
 TEL;type=CELL;type=VOICE;type=pref:+966505959297
@@ -11,7 +11,7 @@ TEL;type=WORK;type=VOICE:+966138812222
 TEL;type=WORK;type=FAX:+966138812124
 ADR;type=WORK;type=pref:;;Head Office \, 15th Floor Eastern Cement Towers;Dammam;Eastern Province;31412;Kingdom of Saudi Arabia
 ADR;type=WORK:;;Head Office \, 15th Floor Eastern Cement Towers;Dammam;Eastern Province;31412;Kingdom of Saudi Arabia
-NOTE:Chief Executive Officer
+NOTE:Eastern Province Cement Co.
 item1.URL;type=pref:https://epcco.com.sa
 item1.X-ABLabel:_$!<HomePage>!$_
 item2.URL:https://epcco.com.sa
