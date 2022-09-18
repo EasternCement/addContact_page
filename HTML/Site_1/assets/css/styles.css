@@ -1,0 +1,22 @@
+@media (max-width: 576px) {
+  .myLarge-btn {
+    vertical-align: middle;
+    visibility: hidden;
+    color: #ffffff;
+  }
+}
+
+@media (max-width: 576px) {
+  .mySmall-btn {
+    position: fixed;
+    bottom: 40px;
+  }
+}
+
+@media (min-width: 768px) {
+  .mySmall-btn {
+    visibility: hidden;
+    text-align: justify;
+  }
+}
+

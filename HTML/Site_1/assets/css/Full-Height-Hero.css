@@ -1,0 +1,33 @@
+#hero {
+}
+
+@media (min-width: 992px) {
+  .LandingTitle {
+    font-size: 42pt;
+  }
+}
+
+.LandingTitle {
+  margin-top: 25vh;
+}
+
+@media (min-width: 992px) {
+  .LandingSubtitle {
+    font-size: 22pt;
+  }
+}
+
+@media (min-width: 576px) {
+  #hero {
+    margin-top: 50px;
+  }
+}
+
+.btn {
+  /*border-radius: 0px;*/
+  border-top-color: rgb(97,115,123);
+  border-right-color: rgb(97,115,123);
+  border-bottom-color: rgba(13,110,253,0);
+  border-left-color: rgba(13,110,253,0.02);
+}
+
